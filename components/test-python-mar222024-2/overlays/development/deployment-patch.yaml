@@ -12,5 +12,5 @@ spec:
   template:
     spec:
       containers:
-        - image: quay.io/jctestorg/test-python-mar222024-2:a717541d6bb93e59b7da0f0404d37588662ec085@sha256:ddcfeb34edb44934aba86e29f0a9f05691ca26b6e0c3c0ceab033dfb972f5174
+        - image: quay.io/jctestorg/test-python-mar222024-2:ed8092edc621acf4d35f10ecf0532d1e63b29a5c@sha256:26971597a806b23c0c11821aa23c27ee36c08485c68d99e54f53387228c77ba2
           name: container-image
